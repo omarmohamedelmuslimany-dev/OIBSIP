@@ -312,6 +312,6 @@ regional strategy, and promotional planning**.
 
 ## 👨‍💻 Author
 
-**Omar Al-Muslimani**
+**Omar Elmuslimany**
 
 Data Analysis \| Excel \| Power BI \| Tableau \| Python \| SQL Server
